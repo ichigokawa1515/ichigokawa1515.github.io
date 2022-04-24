@@ -1,2 +1,1 @@
-layout: page
-title: "index"
+# Yuki Ichikawa
