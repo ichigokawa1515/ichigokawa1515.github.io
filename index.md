@@ -1,2 +1,2 @@
 layout: page
-title: index
+title: "index"
